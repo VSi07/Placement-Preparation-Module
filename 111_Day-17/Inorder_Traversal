@@ -1,4 +1,3 @@
-// Hari
 
 void helper(TreeNode* root, vector<int> &res){ // Recursive
         if(root == nullptr) return;
